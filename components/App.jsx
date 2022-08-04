@@ -6,7 +6,7 @@ import Navbar from "./Navbar";
 import PhotoGrid from "./PhotoGrid";
 import PhotoModal from "./PhotoModal";
 import Loader from "./Loader";
-import { SearchQueryProvider, useSearchQuery } from "./SearchQueryContext";
+import { useSearchQuery } from "./SearchQueryContext";
 import { AppThemeProvider } from "./ThemeContext";
 // other js
 import { fetchPhotos, fetchPhotosByQuery, fetchPhotoById } from "./apis";

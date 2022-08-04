@@ -2,8 +2,6 @@ import { Typography } from "@mui/material";
 import { Box } from "@mui/system";
 // Components
 import Search from "./Search";
-// Assets
-import headerImg from "../images/header.jpg";
 
 // Styles
 const header = {
