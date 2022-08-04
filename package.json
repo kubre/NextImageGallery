@@ -11,7 +11,16 @@
   "dependencies": {
     "next": "12.2.3",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "@emotion/react": "^11.5.0",
+    "@emotion/styled": "^11.3.0",
+    "@fontsource/montserrat": "^4.5.1",
+    "@fontsource/pattaya": "^4.5.0",
+    "@mui/icons-material": "^5.1.0",
+    "@mui/lab": "^5.0.0-alpha.54",
+    "@mui/material": "^5.1.0",
+    "@mui/styles": "^5.1.0",
+    "unsplash-js": "^7.0.15"
   },
   "devDependencies": {
     "eslint": "8.21.0",
